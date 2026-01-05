@@ -1,0 +1,23 @@
+# 个人日记数据
+2025/
+2024/
+*.md
+!README.md
+!New_prompt.md
+
+# 生成的报告与中间数据
+Diary_report/
+*.csv
+
+# Python 环境
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
